@@ -1,0 +1,16 @@
+{
+  "name": "shared",
+  "description": "shared",
+  "private": true,
+  "version": "3.1.0",
+  "author": "capsule5",
+  "repository": "capsule5/shared",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
